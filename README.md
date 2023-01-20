@@ -2,8 +2,7 @@
 
 Simple Alarm Clock App using SQFLite
 
-<img src="ss1.png" width="340" height="680">
-<img src="ss2.png" width="340" height="680">
+<img src="ss1.png" width="360" height="640"> <img src="ss2.png" width="360" height="640">
 
 ## Getting Started
 
