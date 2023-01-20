@@ -1,6 +1,9 @@
-# clockapp
+# Alarm Clock App
 
-A new Flutter project.
+Simple Alarm Clock App using SQFLite
+
+<img src="ss1.png" width="340" height="680">
+<img src="ss2.png" width="340" height="680">
 
 ## Getting Started
 
